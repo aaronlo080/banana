@@ -1,6 +1,9 @@
 Once upon a time I ate an apple.
+
 Then I was sick.
 
 A new line.
 
-new banana.............
+new banana............
+
+fix bug...........
